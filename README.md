@@ -1,2 +1,6 @@
-# DL-Image-classification-techniques
-Comparison CNNs (Alexnet, VGG-16, ResNet) for image classification on dataset Caltech-101. Transfer learning and data augmentation applied and compared results with the training from scratch.
+# CNNs Algorithms Comparison for image classification task on Caltech101
+
+Evaluation of transfer learning and data augmentation in AlexNet, VGG-16 and ResNet for image classification on Caltech-101. 
+<br>Experiments are carried out in `PyTorch`. 
+
+🔗 More information about the experiments and discussion available in the [report](/Report.pdf).
